@@ -7,11 +7,13 @@
 - [🥷 忍者时历](https://calendar.996.ninja)
 - [Ninja VS Boss](https://ninjavsboss.996.ninja)
 - [彩票开奖](https://lottery.996.ninja/)
+- [字符串工具箱 — 纯前端](https://strtool.runnable.run/)
 
 ## Some of the services deployed：
 - [Json Hero](https://json.runnable.run)
 - [随机生成密码](https://randompwd.runnable.run)
 - [交互式 3D 掷骰子器](dice-roller.game.996.ninja)
+
 
 
 
