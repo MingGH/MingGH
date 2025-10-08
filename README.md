@@ -15,7 +15,7 @@
 ## Some of the services deployed：
 - [Json Hero](https://json.runnable.run)
 - [随机生成密码](https://randompwd.runnable.run)
-- [交互式 3D 掷骰子器](dice-roller.game.996.ninja)
+- [交互式 3D 掷骰子器](https://dice-roller.game.996.ninja)
 - [在线白板](https://wb.996.ninja/)
 - [RSS Hub](https://rsshub.runnable.run/)
 - [HttpBin](https://httpbin.runnable.run)
