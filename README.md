@@ -1,4 +1,18 @@
-## 👏🏼 Here is Asher's GitHub, I hope you can find what you're looking for.
+# 👋 Hi, I'm Asher 
+
+🔧 **Java 后端工程师** | 全栈开发 | 边缘计算爱好者  
+📍 **Home:** [runnable.run](https://www.runnable.run) • [996.ninja](https://996.ninja)
+
+---
+
+## 💻 Tech Stack
+
+**Backend:** Java • Spring Boot • Spring Cloud • WebFlux • MyBatis • Netty  
+**Frontend:** Vue • React • Element UI • Semi UI • Bootstrap3  
+**Database:** MySQL • PostgreSQL • OracleSQLServerMongoDB • Redis  
+**DevOps:** Jenkins • Docker • K3s • Cloudflare Workers • GitHub Actions
+
+---
 
 
 ## Here's something I wrote with AI friends
@@ -20,13 +34,25 @@
 - [RSS Hub](https://rsshub.runnable.run/)
 - [HttpBin](https://httpbin.runnable.run)
 
+---
 
+## 📊 GitHub Stats
 
-
+![Asher's Stats](https://github-readme-stats.vercel.app/api?username=MingGH&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MingGH&layout=compact&theme=tokyonight)
 
 ![](https://raw.githubusercontent.com/MingGH/main/assets/github-contribution-grid-snake.svg)
 
+---
 
+
+## 🎮 When Not Coding
+
+- 🏆 博德之门3 通关
+- ⚔️ 仁王2 600+ 小时
+
+
+---
 
 ![](https://img.shields.io/badge/Blog-runnable.run-brightgreen)
 ![](https://img.shields.io/badge/Discord-996ninja-blue)
