@@ -9,7 +9,7 @@
 
 **Backend:** Java • Spring Boot • Spring Cloud • WebFlux • MyBatis • Netty  
 **Frontend:** Vue • React • Element UI • Semi UI • Bootstrap3  
-**Database:** MySQL • PostgreSQL • OracleSQLServerMongoDB • Redis  
+**Database:** MySQL • PostgreSQL • Oracle • SQLServer • MongoDB • Redis  
 **DevOps:** Jenkins • Docker • K3s • Cloudflare Workers • GitHub Actions
 
 ---
