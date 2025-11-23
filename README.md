@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Asher 
 
 🔧 **Java 后端工程师** | 全栈开发 | 边缘计算爱好者  
-📍 **Home:** [runnable.run](https://www.runnable.run) • [996.ninja](https://996.ninja)
+📍 **Home:** [runnable.run](https://www.runnable.run) | [996.ninja](https://996.ninja)
 
 ---
 
@@ -48,9 +48,10 @@
 
 ## 🎮 When Not Coding
 
+- ⚔️ 仁王2 600+ 小时，难9深30太刀通关
 - 🏆 博德之门3 通关
-- ⚔️ 仁王2 600+ 小时
-
+- 炉石传说最高钻一
+- 想知道其他？[Asher博客 | 游戏](https://www.runnable.run/docs/game/intro)
 
 ---
 
