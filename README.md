@@ -18,6 +18,8 @@
 ## Here's something I wrote with AI friends
 - 📚Blog: [Asher的博客](https://www.runnable.run/)  
 - 🥷Touching Fish Online: [996 Ninja](https://996.ninja/)
+- [工具坞](https://gongju.dev/)
+- [XML Tree Viewer](https://xml.gongju.dev/)
 - [Mandelbrot Set 曼德勃罗集](mandelbrot-set.runnable.run)
 - [IndexedDB缓存数据分页](https://demo-mockserver.runnable.run/)
 - [🥷 忍者时历](https://calendar.996.ninja)
