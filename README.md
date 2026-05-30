@@ -16,8 +16,8 @@
 
 
 ## Here's something I wrote with AI friends
-- 📚Blog: [Asher的博客](https://www.runnable.run/)  
-- 🥷Touching Fish Online: [996 Ninja](https://996.ninja/)
+- 📚博客: [Asher的博客](https://www.runnable.run/)  
+- 🥷摸鱼: [996 Ninja](https://996.ninja/)
 - [工具坞](https://gongju.dev/)
 - [XML Tree Viewer](https://xml.gongju.dev/)
 - [Mandelbrot Set 曼德勃罗集](mandelbrot-set.runnable.run)
@@ -29,12 +29,9 @@
 - [I Love Tips](https://ilove.tips/)
 
 ## Some of the services deployed：
-- [Json Hero](https://json.runnable.run)
 - [随机生成密码](https://randompwd.runnable.run)
 - [交互式 3D 掷骰子器](https://dice-roller.game.996.ninja)
-- [在线白板](https://wb.996.ninja/)
 - [RSS Hub](https://rsshub.runnable.run/)
-- [HttpBin](https://httpbin.runnable.run)
 
 ---
 
@@ -53,7 +50,10 @@
 - ⚔️ 仁王2 600+ 小时，难9深30太刀通关
 - 🏆 博德之门3 通关
 - 炉石传说最高钻一
+- 守望先锋一赛季 500强开外
+- 纳斯达克、黄金 坚定持有者
 - 想知道其他？[Asher博客 | 游戏](https://www.runnable.run/docs/game/intro)
+
 
 ---
 
