@@ -1,0 +1,85 @@
+- name: 996忍者
+  link: https://996.ninja/
+  describe: 身处996，则需要学会摸鱼技巧
+  imgLink: https://img.996.ninja/ninjutsu/181b9ccbaa5d30d05c2d8dda00249e20.png
+  tags:
+    - touching fish
+    - 摸鱼
+    - 996忍者
+- name: Asher的博客
+  link: https://runnable.run/
+  describe: 不想打游戏的Java程序员不是好的太刀🦐 写下的笔记和经历希望能帮到你
+  imgLink: https://img.996.ninja/ninjutsu/b9b4089982d68728d618f97f792fb0a0.png
+  tags:
+    - blog
+    - 博客
+- name: 数字直觉
+  link: https://numfeel.996.ninja/
+  describe: 一个技术演示合集，用可视化和交互的方式解释编程概念、算法原理和生活中的数学问题。
+  imgLink: https://img.996.ninja/ninjutsu/c9d1a2b64b864aad6fa778d92eb3e779.png
+  tags:
+    - 数学
+- name: 工具坞
+  link: https://gongju.dev/
+  describe: 工具坞 - 开发者实用在线工具箱
+  imgLink: https://img.996.ninja/ninjutsu/c3b968ff40f1de72928158b843e290cc.png
+  tags:
+    - 工具坞
+    - 开发
+- name: 咕咕嘎嘎莫尔斯码
+  link: https://gugugaga.996.ninja/
+  describe: penguin speaks in dots and dashes
+  imgLink: https://img.996.ninja/ninjutsu/5c6a7c2ed199d1f129dae359a3abad10.png
+  tags:
+    - 咕咕嘎嘎莫尔斯码
+- name: XML 可视化修改
+  link: https://xml.gongju.dev/
+  describe: XML 可视化
+  imgLink: https://img.996.ninja/ninjutsu/2a4755f8d38e98b0dba3b1c393de4800.png
+  
+  tags:
+    - XML
+- name: 指关节纹身生成器
+  link: https://fistbump.996.ninja/#fundfare
+  describe: 一个指关节纹身生成器 —— 键入你自己的文本或随机生成，选择字体，拖拽调整字母位置，然后保存或分享你的创作。
+  imgLink: https://img.996.ninja/ninjutsu/5daebe53d1f68a45ad84a520d559af8f.png
+- name: 名著数据解剖台
+  link: https://storydata.996.ninja/
+  describe: 把名著拆开来看 不是读书笔记，是数据解剖台
+  imgLink: https://img.996.ninja/ninjutsu/58cc12a1f27c9ced9900ecf8f7cf7b4e.png
+  tags:
+    - 名著
+- name: 全网最全国内 Coding Plan 大汇总
+  link: https://bestcoding.996.ninja/
+  describe: 一站式对比国内全部主流 AI Coding Plan 订阅套餐 —— 价格、模型、额度、购买链接，帮你选出最适合的编程套餐。
+  imgLink: https://img.996.ninja/ninjutsu/c71d8cf9371a38c0a891c9c13ce244bf.png
+- name: 仁王3 增伤攻略
+  link: https://nioh3.996.ninja/
+  describe: 仁王3 增伤攻略工具，帮你快速计算和规划角色增伤配装方案。
+  imgLink: https://img.996.ninja/ninjutsu/c57791a90c3372b0b282009449e9e8ad.png
+  
+- name: 去除 Gemini 生成图片水印
+  link: https://geminiwatermark.runnable.run/
+  describe: 谷歌 Gemini 生成的图片会带有 SynthID 隐形水印，这个工具可以帮你去除。
+  imgLink: https://img.996.ninja/ninjutsu/e0aabc5a2116697d7ba47294ac03d4be.png
+- name: Mandelbrot Set Visualizer 曼德勃罗集可视化工具
+  link: https://mandelbrot-set.runnable.run/
+  describe: 曼德博集合（英语：Mandelbrot set，或译为曼德布洛特复数集合）是一种在复平面上组成分形的点的集合，以数学家本华·曼德博的名字命名。
+  imgLink: https://img.996.ninja/ninjutsu/0ca65ed681f32a481e4dbd1b9e201a2c.png
+  tags:
+- name: 基于 Cloudflare AI & Workers 的免费在线文生图服务
+  link: http://text2img.996.ninja/
+  describe: 基于 Cloudflare AI & Workers 的免费在线文生图服务
+  imgLink: https://img.996.ninja/ninjutsu/27c3396bbddc7db5502e6935394cccd9.png
+  tags:
+- name: 忍者时历 · NINJA CALENDAR
+  link: https://calendar.996.ninja/
+  describe: 忍者 + 日历 
+  imgLink: https://img.996.ninja/ninjutsu/cf36adb32efa2a7320283ebe0b658da3.png
+  
+
+
+
+
+
+
