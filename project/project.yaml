@@ -57,7 +57,10 @@
   link: https://nioh3.996.ninja/
   describe: 仁王3 增伤攻略工具，帮你快速计算和规划角色增伤配装方案。
   imgLink: https://img.996.ninja/ninjutsu/c57791a90c3372b0b282009449e9e8ad.png
-  
+- name: 交互式 3D 掷骰子器
+  link: https://dice-roller.game.996.ninja/
+  describe: 交互式 3D 掷骰子器【中文翻译版本】
+  imgLink: https://img.996.ninja/ninjutsu/68335fb73795da6acc5984eaa2ba9e22.png
 - name: 去除 Gemini 生成图片水印
   link: https://geminiwatermark.runnable.run/
   describe: 谷歌 Gemini 生成的图片会带有 SynthID 隐形水印，这个工具可以帮你去除。
