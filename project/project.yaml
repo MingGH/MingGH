@@ -26,6 +26,13 @@
   tags:
     - 工具坞
     - 开发
+- name: Fossilize
+  link: https://fossilize.996.ninja/
+  describe: 文件不离开浏览器。系统只提交 SHA-256 摘要，并生成可独立保存、可链上验证的 .ots 证明文件。
+  imgLink: https://img.996.ninja/ninjutsu/68e139f7501ce76ab69fab57038545ae.png
+  tags:
+    - Fossilize
+    - 比特币
 - name: 咕咕嘎嘎莫尔斯码
   link: https://gugugaga.996.ninja/
   describe: penguin speaks in dots and dashes
