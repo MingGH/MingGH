@@ -31,8 +31,7 @@
   describe: 拖入任意图片，几秒内生成复古风格像素画。支持自定义调色板、专业抖动算法，所有处理在浏览器本地完成。
   imgLink: https://img.996.ninja/ninjutsu/9355187efe01ba80127149c709f3f108.png
   tags:
-    - Fossilize
-    - 比特币
+    - 像素风
 - name: Fossilize
   link: https://fossilize.996.ninja/
   describe: 文件不离开浏览器。系统只提交 SHA-256 摘要，并生成可独立保存、可链上验证的 .ots 证明文件。
