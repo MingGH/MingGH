@@ -73,20 +73,6 @@
   link: https://dice-roller.game.996.ninja/
   describe: 交互式 3D 掷骰子器【中文翻译版本】
   imgLink: https://img.996.ninja/ninjutsu/68335fb73795da6acc5984eaa2ba9e22.png
-- name: 去除 Gemini 生成图片水印
-  link: https://geminiwatermark.runnable.run/
-  describe: 谷歌 Gemini 生成的图片会带有 SynthID 隐形水印，这个工具可以帮你去除。
-  imgLink: https://img.996.ninja/ninjutsu/e0aabc5a2116697d7ba47294ac03d4be.png
-- name: Mandelbrot Set Visualizer 曼德勃罗集可视化工具
-  link: https://mandelbrot-set.runnable.run/
-  describe: 曼德博集合（英语：Mandelbrot set，或译为曼德布洛特复数集合）是一种在复平面上组成分形的点的集合，以数学家本华·曼德博的名字命名。
-  imgLink: https://img.996.ninja/ninjutsu/0ca65ed681f32a481e4dbd1b9e201a2c.png
-  tags:
-- name: 基于 Cloudflare AI & Workers 的免费在线文生图服务
-  link: http://text2img.996.ninja/
-  describe: 基于 Cloudflare AI & Workers 的免费在线文生图服务
-  imgLink: https://img.996.ninja/ninjutsu/27c3396bbddc7db5502e6935394cccd9.png
-  tags:
 - name: 忍者时历 · NINJA CALENDAR
   link: https://calendar.996.ninja/
   describe: 忍者 + 日历 
